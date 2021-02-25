@@ -1,3 +1,3 @@
 # kaijs
 
-Wildcard test
+Wildcard test 2
