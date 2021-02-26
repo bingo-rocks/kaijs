@@ -1,3 +1,4 @@
 # kaijs
 
 Wildcard test
+test
