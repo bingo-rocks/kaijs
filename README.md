@@ -1,3 +1,1 @@
-# kaijs
-
-Wildcard test 45
+test
